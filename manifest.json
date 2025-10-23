@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "name": "Canvas Quiz Loader",
+  "name": "Canvas Quiz Loader - Firefox for Android",
   "short_name": "Quiz Loader",
   "version": "0.5.4",
   "description": "Automatically load correct answers from previous quiz attempts.",
@@ -37,9 +37,6 @@
     "default_title": "Read me"
   },
   "browser_specific_settings": {
-    "gecko": {
-      "id": "{7628edff-9a0d-4e15-81d0-d7f1e1ff9bb0}"
-    },
     "gecko_android": {}
   }
 }
